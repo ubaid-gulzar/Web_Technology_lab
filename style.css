@@ -1,0 +1,64 @@
+h1{
+    color: white;
+    background-color: palegreen;
+    text-align: center;
+    height: 40px;
+    width: 14rem;
+    border-radius: 8%;
+}
+html{
+    background-color: rgb(243, 243, 93);
+}
+div{
+    width: 30%;
+}
+.heading{
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+table{
+    border: none;
+}
+td{
+    width: 60px;
+    height: 10px;
+    color: black;
+}
+td[colspan]{
+    border: none;
+}
+p{
+    line-height: 4px;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: orange;
+}
+.green{
+    background-color: green;
+}
+.pink{
+    background-color: pink;
+}
+.sky{
+    background-color: skyblue;
+}
+.orange{
+    background-color: yellow;
+}
+.purple{
+    background-color: purple;
+}
+.blue{
+    background-color: blue;
+}
+.lightgreen{
+    background-color: lightgreen;
+}
+.black{
+    background-color: rgb(56, 52, 52)
+}
